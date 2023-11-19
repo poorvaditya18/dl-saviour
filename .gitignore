@@ -1,0 +1,11 @@
+bin/
+etc/
+include/
+lib/
+share/
+val/
+creditcard.csv
+fashion-mnist_test.csv
+fashion-mnist_train.csv
+mnist_784_csv.csv
+.ipynb_checkpoints
